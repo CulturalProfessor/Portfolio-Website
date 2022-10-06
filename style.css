@@ -120,7 +120,7 @@ a{
 }
 .logo-animation{
     position: relative;
-    animation: mymove 10s infinite;
+    animation: mymove 2s infinite;
 }
 .contact-form{
     border: .25em solid black;
